@@ -1,0 +1,1 @@
+This repository demonstrates a common error in MongoDB aggregation pipelines. The provided code shows an incorrect approach that can lead to unexpected results. The solution illustrates how to correctly handle the $project stage to avoid these issues.
